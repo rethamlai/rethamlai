@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rethamlai
-- 👀 I’m interested in coding, data science and generative art
+- 👀 I’m interested in data science and coding for artistic purposes
 - 📫 How to reach me rethamlai@gmail.com
 
 <!---
